@@ -97,7 +97,7 @@ Danach erscheint das Symbol der **FaceWapper**-Erweiterung in Ihrem Browser.
 1.  Stellen Sie sicher, dass der lokale Server **läuft**.
 2.  Besuchen Sie eine beliebige Webseite mit Bildern von Personen (z. B. eine Nachrichtenseite oder ein soziales Netzwerk).
 3.  Klicken Sie auf das Symbol der **FaceWapper**-Erweiterung in der Symbolleiste des Browsers.
-4.  Klicken Sie im Popup-Fenster auf die Schaltfläche **"Swap Faces"**.
+4.  Muessen Sie ein Foto hochladen,dann klicken Sie auf die Schaltfläche "Gesichter tauchen".
 5.  Warten Sie einige Sekunden. Die Bilder auf der Seite werden ersetzt.
 
 ---
