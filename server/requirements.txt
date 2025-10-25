@@ -1,0 +1,11 @@
+wheel==0.45.1
+Flask==2.3.2
+Flask-Cors==4.0.0
+matplotlib==3.7.2
+numpy==1.25.2
+onnx==1.14.0
+onnxruntime==1.15.1
+opencv-python==4.8.0.74
+opencv-python-headless==4.8.0.74
+requests==2.31.0
+insightface==0.7.3
